@@ -23,8 +23,8 @@ body{
     display: flex;
     align-items: center;
 }
-.container .col-sm-6{
-    margin-top: 50px;
+.container {
+padding: 20px;    
 }
 .head{
     background-color: hsl(248, 32%, 49%);
